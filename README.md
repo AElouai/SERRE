@@ -24,3 +24,5 @@ Niveau 3 : traitement
 •	Une base de données permettant d’organiser et de stocker les données.
 •	Une base de connaissance qui défini l’ensemble des règles par type de plante, saison, et autres contraintes pour ordonner  sous forme de système expert le processus de contrôle et de gestion
 •	Notification et alerte de l’administrateur du système sous forme de sms ou mail en cas de détection de cas critique au niveau du système.
+
+![Alt text](/doc/img2.png?raw=true)
