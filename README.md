@@ -4,4 +4,4 @@ CONCEPTION ET REALISATION D’UN MODELE POUR LE CONTROLE ET LA SUPERVISION INTEL
 
 
 
-![Alt text](/doc/img.png?raw=true)
+![Alt text](/doc/img1.png?raw=true)
